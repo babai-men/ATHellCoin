@@ -1,17 +1,26 @@
 {
   "name": "ATHellCoin",
   "symbol": "HELL",
-  "description": "🔥 ATHellCoin — мем-коин, который сам себя сжигает ради энергии и силы сообщества. Ежегодное сжигание 1% токенов .",
-  "tags": ["meme", "burn", "community", "sol", "energy", "airdrop"],
-  "image": "https://raw.githubusercontent.com/babai-men/ATHellCoin/main/logo.png"
-,
-  "mechanics": {
-    "annual_burn": "1% токенов сжигается в пулах ликвидности (как уголь для горения) и в пуле команды (как наказание).",
-    "quarterly_airdrop": "Airdrop'ы за добавления пула ликвидности."
-  },
-  "socials": {
-    "twitter": "https://x.com/ATHellCoin",
-    "telegram": "https://t.me/ATHellCoin",
-    "github": "https://github.com/ATHellCoin"
+  "description": "Born in Fire. $HELL is a deflationary mechanism on the Solana network, where 0.1% of every transaction is burnt forever. Pure fire, pure value.",
+  "image": "https://raw.githubusercontent.com/babai-men/ATHellCoin/main/logo.png",
+  "external_url": "https://github.com/babai-men/ATHellCoin",
+  "attributes": [
+    {
+      "trait_type": "Mechanism",
+      "value": "Deflationary (0.1% Burn)"
+    },
+    {
+      "trait_type": "Status",
+      "value": "Immutable"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/babai-men/ATHellCoin/main/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
   }
 }
