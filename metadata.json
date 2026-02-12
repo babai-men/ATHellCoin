@@ -6,24 +6,6 @@
   "external_url": "https://github.com/babai-men/ATHellCoin",
   "properties": {
     "twitter": "https://x.com/ATHellCoin",
-    "telegram": "https://t.me/ATHellCoin",
-  "attributes": [
-    {
-      "trait_type": "Mechanism",
-      "value": "Deflationary (0.1% Burn)"
-    },
-    {
-      "trait_type": "Status",
-      "value": "Immutable"
-    }
-  ],
-  "properties": {
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/babai-men/ATHellCoin/main/logo.png",
-        "type": "image/png"
-      }
-    ],
-    "category": "image"
+    "telegram": "https://t.me/ATHellCoin"
   }
 }
