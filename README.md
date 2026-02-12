@@ -1,4 +1,4 @@
-# 👹 ATHellCoin ($HELL)
+# 👹 ATHellCoin (HELL)
 
 ![Supply Status](https://img.shields.io/badge/Supply-99.9%25_Remaining-red)
 ![Tax](https://img.shields.io/badge/Tax-0.1%25_Burn-orange)
@@ -8,23 +8,23 @@
 
 ## 📍 Navigation / Навигация
 * **[English Section](#-english-version)**
-    * [About $HELL](#-about-hell)
+    * [About HELL](#-about-hell)
     * [Genesis Burn](#-genesis-burn-mechanics)
     * [Tokenomics](#-tokenomics)
     * [Security](#-security-hardcore-level)
 * **[Русский раздел](#-русская-версия)**
-    * [О проекте $HELL](#-о-проекте-hell)
+    * [О проекте HELL](#-о-проекте-hell)
     * [Genesis Burn](#-механика-genesis-burn)
     * [Токеномика](#-токеномика)
     * [Безопасность](#-безопасность-hardcore-level)
-* **[FAQ / Ответы на вопросы](docs/FAQ.md)**
+* **[FAQ / Ответы на вопросы](FAQ.md)**
 
 ---
 
 ## 🇺🇸 English Version
 
-### 🕯 About $HELL
-**Born in Fire.** $HELL is a next-generation deflationary meme coin on the Solana network (Token-2022). We've implemented a precision burn mechanism: a **0.1% fee** on every transaction. We deliberately distributed tokens through on-chain transfers to ignite the burn from second one.
+### 🕯 About HELL
+**Born in Fire.** HELL is a next-generation deflationary meme coin on the Solana network (Token-2022). We've implemented a precision burn mechanism: a **0.1% fee** on every transaction. We deliberately distributed tokens through on-chain transfers to ignite the burn from second one.
 
 ### 🔥 Genesis Burn Mechanics
 During the initial distribution, 5 main transactions were carried out. Due to the 0.1% fee, the supply has already decreased by **1,000,000 $HELL** before the public launch.
@@ -50,8 +50,8 @@ During the initial distribution, 5 main transactions were carried out. Due to th
 
 ## 🇷🇺 Русская Версия
 
-### 🕯 О проекте $HELL
-**Born in Fire.** $HELL — это дефляционный мем-коин в сети Solana, созданный для тех, кто ценит ликвидность и рост. Мы выбрали комиссию **0.1%**, чтобы обеспечить постоянное сжигание, не мешая при этом крупным трейдерам и арбитражным ботам создавать объем.
+### 🕯 О проекте HELL
+**Born in Fire.** HELL — это дефляционный мем-коин в сети Solana, созданный для тех, кто ценит ликвидность и рост. Мы выбрали комиссию **0.1%**, чтобы обеспечить постоянное сжигание, не мешая при этом крупным трейдерам и арбитражным ботам создавать объем.
 
 ### 🔥 Механика Genesis Burn
 При распределении токеномики было проведено 5 транзакций. Благодаря комиссии 0.1%, суммарное предложение **уже уменьшилось на 1,000,000 $HELL** еще до листинга.
