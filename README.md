@@ -19,7 +19,7 @@
 **Born in Fire.** HELL is a deflationary meme coin on Solana (Token-2022). We've implemented a precision **0.1% fee** on every transaction. To ensure 100% transparency, we use audited smart contracts for supply locking and permanent burning.
 
 ### 🔥 Burn Mechanics
-- **Genesis Burn:** During initial distribution, 1,000,000 $HELL were already burnt due to the 0.1% tax.
+- **Genesis Burn:** During initial distribution, 1,000,000 HELL were already burnt due to the 0.1% tax.
 - **Auto-Burn:** Every trade triggers a 0.1% fee. These tokens are harvested and destroyed via the Incinerator, reducing Total Supply forever.
 
 ### 📊 Tokenomics
@@ -44,7 +44,7 @@
 **Born in Fire.** HELL — дефляционный мем-коин в сети Solana (Token-2022). Мы выбрали комиссию **0.1%**, чтобы обеспечить постоянное сжигание, не мешая трейдерам. Никаких скрытых функций — только чистая математика и огонь.
 
 ### 🔥 Механика сжигания
-- **Genesis Burn:** При распределении токеномики уже сгорело 1,000,000 $HELL.
+- **Genesis Burn:** При распределении токеномики уже сгорело 1,000,000 HELL.
 - **Постоянный Burn:** Комиссия 0.1% с каждой транзакции изымается из обращения и сжигается, уменьшая общую эмиссию (Total Supply).
 
 ### 📊 Токеномика
