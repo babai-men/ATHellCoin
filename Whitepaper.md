@@ -1,4 +1,4 @@
-# 📄 ATHELLCOIN (HELL) Whitepaper
+# 📄 ATHELLCOIN (HELL) Whitepaper 2.0
 
 > **Select Language:** [English](#en) | [Russian](#ru)
 
@@ -8,38 +8,37 @@
 ## 🇺🇸 English Version
 
 ### 1. Introduction
-ATHELLCOIN (HELL) is more than just a token; it's a social experiment on the Solana blockchain. Built for those who thrive in the high-stakes, high-energy world of meme culture, HELL combines aggressive burn mechanics with community rewards.
+ATHELLCOIN (HELL) is a deflationary social experiment on the Solana blockchain (Token-2022). It combines automated burn mechanisms with strategic "Inferno Rituals" to create a high-scarcity economic environment.
 
-### 2. Vision
-Our goal is to create a self-sustaining ecosystem where "heat" (token value and scarcity) is generated through community participation, viral marketing, and scheduled "Inferno" events.
-
-### 3. Tokenomics
+### 2. Tokenomics (Updated)
 * **Ticker:** HELL
 * **Total Supply:** 1,000,000,000 (1 Billion)
-* **Network:** Solana (SPL Token)
+* **Network:** Solana (Token-2022)
 
 | Allocation | Percentage | Purpose |
 | :--- | :--- | :--- |
-| **Liquidity** | 55% | Locked/Burned LP for trading stability |
-| **Airdrops** | 30% | Rewarding long-term holders and LP providers |
-| **Team** | 10% | Marketing, development (Locked with Vesting) |
-| **Ecosystem** | 5% | Strategic partnerships and infrastructure |
-| **Reserve** | 5% | Future CEX listings and emergency fund |
+| **DEX Liquidity** | 70% | Initial Liquidity (LP-Burn) |
+| **CEX Reserve** | 10% | Exchange listings & Manual Burns |
+| **Team** | 10% | Development & Manual Burns |
+| **Community Rewards**| 10% | Incentives & Airdrops |
 
-### 4. Burning Mechanism: The Inferno Ritual
-Unlike passive burn taxes, HELL uses **Manual Public Burns**. 
-* **The Ritual:** 1% of the Team and Liquidity pools are sent to a dead address during hyped community events.
-* **Transparency:** Every transaction hash is published immediately.
+### 3. Burning Mechanisms
 
-### 5. Hellfire Airdrops
-30% of the supply is dedicated to keeping the community loyal.
-* **Snapshot-based:** Rewards are distributed to those providing liquidity on DEXs.
-* **Scaling:** The longer you provide liquidity, the higher your "Soul Multiplier" for the next drop.
+#### 3.1. Automated 0.1% Transaction Fee
+Every transaction on the network triggers a hardcoded 0.1% fee.
+* **Pros:** Constant deflation, ultra-low entry barrier, and protection against high-frequency bots.
+* **Cons:** Cumulative effect for high-volume scalpers and the need for 0.2% - 0.5% slippage.
+* **Impact:** Every participant contributes to the asset's scarcity simply by trading.
 
-### 6. Security & Trust
-* **Mint Authority:** Revoked (No more tokens can ever be created).
-* **Freeze Authority:** Revoked (No one can freeze your funds).
-* **Rug-Proof:** Liquidity tokens are burned to ensure the pool stays forever.
+#### 3.2. Manual "Inferno Rituals"
+Strategic burns conducted by the team to reward early backers.
+* **Source:** Tokens are taken exclusively from **Team (10%)** and **CEX Reserve (10%)** pools.
+* **Process:** Announced 24-48h in advance and verified via on-chain transaction hashes.
+
+### 4. Strategy for Early Investors
+* **Anti-Dilution:** Manual burns from team/reserve pools increase the relative value of your holdings without requiring extra capital.
+* **HODL Incentive:** Scheduled rituals act as supply-side catalysts, rewarding long-term holders as the total supply shrinks.
+* **Transparency:** Immutable code and public burn logs ensure "Smart Money" cannot manipulate the circulating supply.
 
 ---
 
@@ -47,38 +46,37 @@ Unlike passive burn taxes, HELL uses **Manual Public Burns**.
 ## 🇷🇺 Русская версия
 
 ### 1. Введение
-ATHELLCOIN (HELL) — это не просто токен, это социальный эксперимент в сети Solana. Созданный для тех, кто любит азарт и драйв мем-культуры, HELL сочетает в себе агрессивные механики сжигания и систему наград для сообщества.
+ATHELLCOIN (HELL) — дефляционный социальный эксперимент в сети Solana (стандарт Token-2022). Проект сочетает автоматические механики сжигания со стратегическими «Ритуалами Инферно» для создания среды с высокой дефицитностью актива.
 
-### 2. Видение
-Наша цель — создать самодостаточную экосистему, где «жар» (ценность и дефицит токена) генерируется через участие сообщества, виральный маркетинг и запланированные ивенты «Inferno».
-
-### 3. Токеномика
+### 2. Токеномика (Обновлено)
 * **Тикер:** HELL
 * **Общая эмиссия:** 1,000,000,000 (1 Миллиард)
-* **Сеть:** Solana (SPL Token)
+* **Сеть:** Solana (Token-2022)
 
 | Распределение | Процент | Назначение |
 | :--- | :--- | :--- |
-| **Ликвидность** | 55% | Заблокированный пул для стабильности торгов |
-| **Airdrops** | 30% | Награды для холдеров и поставщиков ликвидности |
-| **Команда** | 10% | Маркетинг, разработка (Заблокировано) |
-| **Развитие** | 5% | Партнерства и инфраструктура |
-| **Резерв** | 5% | Листинги на биржах и фонд безопасности |
+| **DEX Ликвидность** | 70% | Начальный пул (LP-Burn) |
+| **CEX Резерв** | 10% | Листинги и ручные сжигания |
+| **Команда** | 10% | Разработка и ручные сжигания |
+| **Награды сообщества**| 10% | Инсентивы и аирдропы |
 
-### 4. Механизм сжигания: Inferno Ritual
-В отличие от пассивных налогов, HELL использует **публичные ручные сжигания**.
-* **Ритуал:** 1% токенов из командного пула и пула ликвидности отправляются на «мертвый» адрес во время масштабных ивентов.
-* **Прозрачность:** Хеши всех транзакций публикуются в реальном времени.
+### 3. Механики сжигания
 
-### 5. Hellfire Airdrops
-30% эмиссии предназначено для поддержания лояльности сообщества.
-* **Снимки (Snapshots):** Награды распределяются среди тех, кто добавляет ликвидность на DEX.
-* **Множитель:** Чем дольше вы удерживаете ликвидность, тем выше ваш «Множитель Души» для следующих раздач.
+#### 3.1. Автоматическая комиссия 0.1%
+Каждая транзакция активирует встроенный налог в размере 0.1%.
+* **Плюсы:** Постоянная дефляция, ультра-низкий барьер входа, защита от агрессивных арбитражных ботов.
+* **Минусы:** Накопительный эффект для скальперов и необходимость настройки проскальзывания (slippage) 0.2% - 0.5%.
+* **Влияние:** Каждый участник рынка делает актив более редким, просто совершая сделки.
 
-### 6. Безопасность и Доверие
-* **Mint Authority:** Отключен (Допечатка токенов невозможна).
-* **Freeze Authority:** Отключен (Ваши средства нельзя заморозить).
-* **Защита от Rug-pull:** LP-токены сжигаются, что гарантирует наличие ликвидности навсегда.
+#### 3.2. Ручные «Ритуалы Инферно»
+Контролируемые сжигания для стимулирования роста и поощрения ранних сторонников.
+* **Источник:** Токены изымаются только из пулов **Команды (10%)** и **CEX Резерва (10%)**.
+* **Процесс:** Анонсируется за 24-48 часов до исполнения с последующей публикацией хеша транзакции.
+
+### 4. Стратегия для первых инвесторов
+* **Защита от размытия:** Сжигание токенов команды и резерва увеличивает вашу относительную долю в проекте без дополнительных затрат.
+* **Стимул к холду:** Запланированные «Ритуалы» создают дефицит предложения, что выгодно долгосрочным держателям.
+* **Прозрачность:** Неизменяемый код и публичные отчеты исключают возможность манипуляций с эмиссией со стороны разработчиков.
 
 ---
 
