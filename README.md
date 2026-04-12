@@ -25,16 +25,15 @@
 ### 📊 Tokenomics
 | Sector | Allocation | Status | Details |
 | :--- | :--- | :--- | :--- |
-| **DEX Liquidity** | 50% | **Locked/Burnt** | To be burnt immediately after launch |
-| **Locked Reserve** | 35% | **Vesting** | Locked for 12 months via Smart Contract |
-| **Presale** | 5% | **Distributed** | Community round |
-| **LP Rewards** | 5% | **Incentives** | For Liquidity Providers |
-| **Marketing & Social**| 5% | **Active** | For active community supporters |
+| **DEX Liquidity** | 70% | **Locked/Burnt** | Major LP burnt immediately after launch |
+| **CEX Reserve** | 10% | **Reserved** | Allocated for Centralized Exchange listings |
+| **Team** | 10% | **Vesting** | Development and core team |
+| **Community Rewards**| 10% | **Active** | Airdrops and community incentives |
 
 ### 🔒 Security (Hardcore Level)
 1. **Immutable Fee:** The 0.1% burn rate is hardcoded. Authority is disabled.
 2. **Revoked Authority:** Mint and freeze functions are permanently destroyed.
-3. **35% Time-Lock:** 350,000,000 $HELL are locked in an audited vesting contract for 1 year. [Link to Certificate]
+3. **Liquidity Lock:** 70% of supply is dedicated to DEX with LP burn.
 
 ---
 
@@ -50,21 +49,19 @@
 ### 📊 Токеномика
 | Сектор | Доля | Статус | Детали |
 | :--- | :--- | :--- | :--- |
-| **DEX Ликвидность** | 50% | **Заблокировано** | LP-токены сжигаются при запуске |
-| **Резерв (Запуск 2027)**| 35% | **Vesting** | Заблокировано на 1 год через смарт-контракт |
-| **Предпродажа** | 5% | **Распределено** | Ранние сторонники |
-| **Бонусы LP** | 5% | **Награды** | Держателям пула ликвидности |
-| **Маркетинг и Соцсети**| 5% | **В работе** | Награды за продвижение проекта |
+| **DEX Ликвидность** | 70% | **Заблокировано** | LP-токены сжигаются при запуске |
+| **CEX Резерв** | 10% | **Резерв** | Выделено для листинга на биржах (CEX) |
+| **Команда** | 10% | **Vesting** | Доля разработчиков и команды |
+| **Награды сообщества**| 10% | **В работе** | Награды за продвижение и аирдропы |
 
 ### 🔒 Безопасность (Hardcore Level)
 1. **Immutable Fee:** Комиссия 0.1% зафиксирована навсегда. Право на изменение отозвано.
 2. **Revoked Authority:** Функции допечатки (Mint) и заморозки (Freeze) полностью отключены.
-3. **Блокировка 35%:** 350 млн токенов заперты в смарт-контракте на 12 месяцев. Разработчик не имеет к ним доступа. [Ссылка на сертификат]
+3. **Контроль эмиссии:** Основная часть предложения (70%) направлена в ликвидность DEX.
 
 ---
 
 ## ⚙️ How to Trade / Как торговать
 - **Network:** Solana (Token-2022)
-- **Slippage:** 0.2% - 0.5%
+- **Slippage:** 0.2% - 0.5% (to cover 0.1% tax)
 - **Contract:** `[АДРЕС_ВАШЕГО_ТОКЕНА]`
--
