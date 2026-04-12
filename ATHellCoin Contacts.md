@@ -13,7 +13,7 @@
 
 ### **📧 Поддержка и сотрудничество / Support & Business**
 
-* **Email:** [support@athellcoin.com](mailto:support@athellcoin.com) — *По вопросам партнерства и листингов.*
+* **Email:** [athellcoin@gmail.com](mailto:athellcoin@gmail.com) — *По вопросам партнерства и листингов.*
 
 **Внимание:** Команда ATHellCoin никогда не пишет первой с предложением купить токены напрямую или отправить SOL на личные адреса. Используйте только ссылки выше\!
 
