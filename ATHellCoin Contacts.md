@@ -9,7 +9,7 @@
 
 ### **🛠️ Разработка / Development**
 
-* **GitHub:** [ATHellCoin Official](https://github.com/ATHellCoin) — *Исходный код контракта Token-2022 и техническая документация.*
+* **GitHub:** [ATHellCoin Official](https://github.com/babai-men/ATHellCoin) — *Исходный код контракта Token-2022 и техническая документация.*
 
 ### **📧 Поддержка и сотрудничество / Support & Business**
 
