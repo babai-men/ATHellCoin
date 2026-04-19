@@ -29,6 +29,3 @@
 **Warning:** The ATHellCoin team will never message you first offering to buy tokens directly or ask you to send SOL to personal addresses. Use only the official data provided above!
 
 **"Trade with fire, or get burnt."**"""
-
-with open("ATHellCoin_Contacts_Updated.md", "w", encoding="utf-8") as f:
-    f.write(content)
