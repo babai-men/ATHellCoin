@@ -1,4 +1,4 @@
-content = """# 🔗 Официальные контакты / Official Links
+# 🔗 Официальные контакты / Official Links
 
 Здесь вы найдете все актуальные ссылки для связи с командой **ATHellCoin (HELL)**, а также важные адреса смарт-контрактов проекта. / Here you will find all the current links to contact the **ATHellCoin (HELL)** team, as well as important smart contract addresses of the project.
 
