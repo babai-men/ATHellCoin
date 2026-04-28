@@ -39,7 +39,7 @@
 - **Genesis Burn:** During initial distribution, 1,000,000 HELL were already burnt.
 - **Auto-Burn:** Every trade triggers a 0.1% fee. These tokens are harvested and destroyed via the Incinerator, reducing Total Supply forever.
 
-![Burn Mechanism](main/images/burn.png)
+![Burn Mechanism](assets/images/burn.png)
 
 ### 📊 Tokenomics & Locks
 
