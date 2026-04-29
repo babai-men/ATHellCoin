@@ -49,17 +49,8 @@ We strive for systematic development with a focus on Centralized Exchange (CEX) 
 | **DEX Listing** | 833,477 | 290,000,000 HELL (29.06% in pool) | 0% |
 
 **Private Round Token Price:** 0.000000535 SOL
+![Funding](https://raw.githubusercontent.com/babai-men/ATHellCoin/images/funding.png)
 
-#### Summary
-
-| Category | Amount | Percentage |
-|:---|:---:|:---:|
-| **Total Presale (Private + Pinksale)** | 450,000,000 HELL | 45.09% |
-| **Liquidity Pool at Listing** | 290,000,000 HELL | 29.06% |
-| **Team & CEX Locked** | 258,500,000 HELL | 25.85% |
-| **Genesis Burn** | 1,500,000 HELL | 0.15% |
-
----
 
 ### 4. Economic Model & Burning Mechanics
 
@@ -170,7 +161,7 @@ HELL переосмысляет концепцию мемкоинов, дока�
 | **DEX Листинг** | 833,477 | 290,000,000 HELL (29.06%) | 0% |
 
 **Цена токена в приватном раунде:** 0.000000535 SOL
-
+![funding](https://raw.githubusercontent.com/babai-men/ATHellCoin/images/funding.ru.png)
 ---
 
 ### 4. Экономическая модель и механика сжигания
