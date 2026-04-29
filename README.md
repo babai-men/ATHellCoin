@@ -3,7 +3,6 @@
 ![Supply Status](https://img.shields.io/badge/Supply-Locked_&_Deflationary-red)
 ![Tax](https://img.shields.io/badge/Tax-0.1%25_Burn-orange)
 ![Security](https://img.shields.io/badge/Security-Hardcore_Safe-brightgreen)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Solana](https://img.shields.io/badge/Blockchain-Solana-14F195?logo=solana)](https://solana.com)
 [![Token](https://img.shields.io/badge/Standard-Token--2022-blue)](https://spl.solana.com/token-2022)
 
@@ -36,7 +35,7 @@
 - **Genesis Burn:** During initial distribution, 1,000,000 HELL were already burnt.
 - **Auto-Burn:** Every trade triggers a 0.1% fee. These tokens are harvested and destroyed via the Incinerator, reducing Total Supply forever.
 
-![Burn Mechanism](assets/images/burn.png)
+![Burn Mechanism](https://raw.githubusercontent.com/babai-men/ATHellCoin/images/burn.png)
 
 ### 📊 Tokenomics & Locks
 
