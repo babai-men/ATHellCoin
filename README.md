@@ -15,7 +15,6 @@
 
 - [English Version](#-english-version)
 - [Русская Версия](#-русская-версия)
-- [Visual Guide](#-visual-guide---mechanics-locks--security)
 - [FAQ / Ответы на вопросы](#-faq--ответы-на-вопросы)
 
 ---
