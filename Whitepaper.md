@@ -49,8 +49,8 @@ We strive for systematic development with a focus on Centralized Exchange (CEX) 
 | **DEX Listing** | 833,477 | 290,000,000 HELL (29.06% in pool) | 0% |
 
 **Private Round Token Price:** 0.000000535 SOL
-![Funding](https://raw.githubusercontent.com/babai-men/ATHellCoin/images/funding.png)
-
+![funding](https://raw.githubusercontent.com/babai-men/ATHellCoin/images/funding.ru.png)
+----
 
 ### 4. Economic Model & Burning Mechanics
 
