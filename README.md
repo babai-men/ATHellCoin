@@ -40,9 +40,9 @@
 ### 📊 Tokenomics & Locks
 
 - **70% DEX Liquidity:** Permanently **BURNT** (not just locked).
-- **10% CEX Reserve:** For centralized exchange listings.
+- **15% CEX Reserve:** For centralized exchange listings.
 - **10% Team:** Vesting schedule.
-- **10% Community Rewards:** Airdrops and incentives.
+- **5% Community Rewards:** Airdrops and incentives.
 
 ![Token Locks](https://raw.githubusercontent.com/babai-men/ATHellCoin/images/lock.png)
 
@@ -82,9 +82,9 @@
 ### 📊 Токеномика и Блокировки
 
 - **70% Ликвидность DEX:** **СОЖЖЕНЫ** навсегда (не просто заблокированы).
-- **10% Резерв CEX:** Для листинга на централизованных биржах.
+- **15% Резерв CEX:** Для листинга на централизованных биржах.
 - **10% Команда:** Вестинг.
-- **10% Награды сообщества:** Эйрдропы и стимулы.
+- **5% Награды сообщества:** Эйрдропы и стимулы.
 
 ![Блокировки Токенов](https://raw.githubusercontent.com/babai-men/ATHellCoin/images/lock.ru.png)
 
@@ -102,37 +102,14 @@
 - **Проскальзывание (Slippage):** 0.2% - 0.5% (для покрытия 0.1% налога)
 - **Контракт:** `[АДРЕС_ВАШЕГО_ТОКЕНА]`
 
----
 
-## 📖 Visual Guide - Mechanics, Locks & Security
-
-This section provides a quick visual summary of how HELL works.
-
-| **Burn Mechanism**                                   | **Token Locks & Allocation**                         | **Security Features**                                |
-| :--------------------------------------------------- | :---------------------------------------------------- | :--------------------------------------------------- |
-| How the 0.1% tax permanently reduces total supply.  | 70% of LP tokens are **burnt**, others are vested.   | Immutable fee, revoked mint/freeze, burnt LP.       |
-| ![Burn](assets/images/burn.png)                      | ![Locks](assets/images/lock.png)                       | ![Security](assets/images/security.png)               |
-
----
-
-## ❓ FAQ / Ответы на вопросы
-
-For a detailed list of frequently asked questions, please refer to our dedicated FAQ file:
-
-📄 **[Read the full FAQ.md](FAQ.md)**
-
-Для детального списка часто задаваемых вопросов, пожалуйста, обратитесь к нашему файлу FAQ:
-
-📄 **[Прочитать полный FAQ.md](FAQ.md)**
-
----
 
 ## 🔗 Official Links / Официальные ссылки
 
-- **Website:** `https://athellcoin.xyz`
+
 - **Telegram:** `t.me/ATHellCoin`
 - **X (Twitter):** `@ATHellCoin`
-- **Email:** `hello@athellcoin.xyz`
+- **Email:** `athellcoin@gmail.com`
 
 ---
 
