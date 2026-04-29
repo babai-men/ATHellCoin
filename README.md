@@ -50,7 +50,7 @@
 
 1.  **Immutable Fee:** The 0.1% burn rate is hardcoded. Authority is disabled.
 2.  **Revoked Authority:** Mint and freeze functions are permanently destroyed.
-3.  **Burnt Liquidity:** 70% of supply is in DEX with LP tokens **burnt forever**.
+
 
 ![Security Features](https://raw.githubusercontent.com/babai-men/ATHellCoin/images/security.png)
 
@@ -93,7 +93,7 @@
 
 1.  **Immutable Fee:** Комиссия 0.1% зафиксирована навсегда. Право на изменение отозвано.
 2.  **Revoked Authority:** Функции допечатки (Mint) и заморозки (Freeze) полностью отключены.
-3.  **Контроль эмиссии:** Основная часть предложения (70%) направлена в ликвидность DEX, а LP-токены **сожжены**.
+
 
 ![Функции Безопасности](https://raw.githubusercontent.com/babai-men/ATHellCoin/images/security.ru.png)
 
