@@ -44,7 +44,7 @@
 - **10% Team:** Vesting schedule.
 - **10% Community Rewards:** Airdrops and incentives.
 
-![Token Locks](assets/images/lock.png)
+![Token Locks](https://raw.githubusercontent.com/babai-men/ATHellCoin/images/lock.png)
 
 ### 🔒 Hardcore Security
 
@@ -52,7 +52,7 @@
 2.  **Revoked Authority:** Mint and freeze functions are permanently destroyed.
 3.  **Burnt Liquidity:** 70% of supply is in DEX with LP tokens **burnt forever**.
 
-![Security Features](assets/images/security.png)
+![Security Features](https://raw.githubusercontent.com/babai-men/ATHellCoin/images/security.png)
 
 ### ⚙️ How to Trade
 
@@ -77,7 +77,7 @@
 - **Genesis Burn:** При распределении токеномики уже сгорело 1,000,000 HELL.
 - **Постоянный Burn:** Комиссия 0.1% с каждой транзакции изымается из обращения и сжигается, уменьшая общую эмиссию.
 
-![Механизм Сжигания](assets/images/burn.png)
+![Механизм Сжигания](https://raw.githubusercontent.com/babai-men/ATHellCoin/images/burn.ru.png)
 
 ### 📊 Токеномика и Блокировки
 
@@ -86,7 +86,7 @@
 - **10% Команда:** Вестинг.
 - **10% Награды сообщества:** Эйрдропы и стимулы.
 
-![Блокировки Токенов](assets/images/lock.png)
+![Блокировки Токенов](https://raw.githubusercontent.com/babai-men/ATHellCoin/images/lock.ru.png)
 
 ### 🔒 Безопасность (Hardcore Level)
 
@@ -94,7 +94,7 @@
 2.  **Revoked Authority:** Функции допечатки (Mint) и заморозки (Freeze) полностью отключены.
 3.  **Контроль эмиссии:** Основная часть предложения (70%) направлена в ликвидность DEX, а LP-токены **сожжены**.
 
-![Функции Безопасности](assets/images/security.png)
+![Функции Безопасности](https://raw.githubusercontent.com/babai-men/ATHellCoin/images/security.ru.png)
 
 ### ⚙️ Как торговать
 
