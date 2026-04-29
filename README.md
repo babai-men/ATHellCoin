@@ -36,12 +36,13 @@
 
 ![Burn Mechanism](https://raw.githubusercontent.com/babai-men/ATHellCoin/images/burn.png)
 
-### 📊 Tokenomics & Locks
+| Allocation | Percentage | Details |
+|:---|:---:|:---|
+| **Liquidity Pool** | 29.06% | DEX liquidity (Raydium/Meteora) |
+| **Pinksale Presale** | 34.07% | Public presale allocation |
+| **Private Round** | 11.02% | Early strategic funding ($5,000 goal) |
+| **Team & CEX (Locked)** | 25.85% | Team vesting + CEX listing reserve |
 
-- **70% DEX Liquidity:** Permanently **BURNT** (not just locked).
-- **15% CEX Reserve:** For centralized exchange listings.
-- **10% Team:** Vesting schedule.
-- **5% Community Rewards:** Airdrops and incentives.
 
 ![Token Locks](https://raw.githubusercontent.com/babai-men/ATHellCoin/images/lock.png)
 
