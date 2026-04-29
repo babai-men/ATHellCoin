@@ -58,7 +58,7 @@
 
 - **Network:** Solana (Token-2022)
 - **Slippage:** 0.2% - 0.5% (to cover 0.1% tax)
-- **Contract:** `[YOUR_TOKEN_ADDRESS_HERE]`
+- **Contract:** `[9Ey4aSdshNo4Auxe878MdDTWK8EyGPYKP3b764tMhBKc]`
 
 ---
 
@@ -101,7 +101,7 @@
 
 - **Сеть:** Solana (Token-2022)
 - **Проскальзывание (Slippage):** 0.2% - 0.5% (для покрытия 0.1% налога)
-- **Контракт:** `[АДРЕС_ВАШЕГО_ТОКЕНА]`
+- **Контракт:** `[9Ey4aSdshNo4Auxe878MdDTWK8EyGPYKP3b764tMhBKc]`
 
 
 
