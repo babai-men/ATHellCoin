@@ -114,4 +114,4 @@
 
 ---
 
-*Disclaimer: This is a meme coin. Always do your own research (DYOR) before investing.*
+*Disclaimer: This is a meme coin. Always do your own research (HELL) before investing.*
