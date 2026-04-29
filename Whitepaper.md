@@ -3,81 +3,226 @@
 ## 🇺🇸 English Version
 
 ### 1. Introduction
-ATHELLCOIN (HELL) is a deflationary social experiment on the Solana blockchain utilizing the Token-2022 standard. The project combines automated burn mechanisms with strategic "Inferno Rituals" to create a high-scarcity economic environment, incentivizing long-term holders through mathematical deflation.
+ATHELLCOIN (HELL) is a deflationary meme coin on the Solana blockchain utilizing the Token-2022 standard. The project combines automated burn mechanisms with strategic funding rounds to create a high-scarcity economic environment, incentivizing long-term holders through mathematical deflation.
+
+---
 
 ### 2. Vision & Goals
+
 **Project Ideology**
-$HELL redefines the concept of memecoins, proving they can be effective assets for long-term investment. Our primary goal is to demonstrate how the laws of supply and demand directly influence market value.
+HELL redefines the concept of memecoins, proving they can be effective assets for long-term holding. Our primary goal is to demonstrate how supply and demand directly influence market value.
 
 **Investment Potential through Deflation**
-Due to constant token burning, the share of early holders in the total supply grows proportionally as the emission decreases. This allows investors to increase their influence in the project while minimizing the risks of asset devaluation through mathematically justified scarcity.
+Due to constant token burning (0.1% per transaction), the share of holders in the total supply grows proportionally as emission decreases. This creates mathematically justified scarcity.
 
 **Scaling & Purpose**
-We strive for systematic development with a focus on Centralized Exchange (CEX) listings to expand ecosystem access. We are building a project driven by a vision of a fair and transparent mechanism, proving that initiatives prioritising concept over quick profit exist in the crypto space.
+We strive for systematic development with a focus on Centralized Exchange (CEX) listings to expand ecosystem access. We are building a project driven by a vision of fair and transparent mechanisms.
+
+---
 
 ### 3. Tokenomics
-* **Ticker:** HELL
-* **Total Supply:** 1,000,000,000 (1 Billion)
-* **Network:** Solana (Token-2022)
 
-| Allocation | Percentage | Purpose | Lock-up / Terms |
-| :--- | :--- | :--- | :--- |
-| **Presale** | 40% | Early Bird Funding | **30% Discount vs DEX Listing** |
-| **DEX Liquidity** | 35% | Public Launch Pool | **100% LP Tokens Burned** |
-| **CEX Listing Reserve** | 15% | Future Exchanges | **1 Year Lock-up** |
-| **Team & Development** | 10% | Growth & Rituals | **1 Year Lock-up** |
+| Parameter | Value |
+|-----------|-------|
+| **Ticker** | HELL |
+| **Total Supply** | 1,000,000,000 (1 Billion) |
+| **Network** | Solana (Token-2022) |
+| **Transaction Tax** | 0.1% (fixed, immutable, burned) |
+
+#### Token Allocation
+
+| Allocation | Percentage | Details |
+|:---|:---:|:---|
+| **Liquidity Pool** | 29.06% | DEX liquidity (Raydium/Meteora) |
+| **Pinksale Presale** | 34.07% | Public presale allocation |
+| **Private Round** | 11.02% | Early strategic funding ($5,000 goal) |
+| **Team & CEX (Locked)** | 25.85% | Team vesting + CEX listing reserve |
+
+**Total: 100%**
+
+#### Funding Rounds
+
+| Round | Rate (HELL per 1 SOL) | Allocation | Discount vs Listing |
+|:---|:---:|:---:|:---:|
+| **Private Round** | 1,870,112 | 110,000,000 HELL (11.02%) | ~55% |
+| **Pinksale Presale** | 963,336 | 340,000,000 HELL (34.07%) | 15% |
+| **DEX Listing** | 833,477 | 290,000,000 HELL (29.06% in pool) | 0% |
+
+**Private Round Token Price:** 0.000000535 SOL
+
+#### Summary
+
+| Category | Amount | Percentage |
+|:---|:---:|:---:|
+| **Total Presale (Private + Pinksale)** | 450,000,000 HELL | 45.09% |
+| **Liquidity Pool at Listing** | 290,000,000 HELL | 29.06% |
+| **Team & CEX Locked** | 258,500,000 HELL | 25.85% |
+| **Genesis Burn** | 1,500,000 HELL | 0.15% |
+
+---
 
 ### 4. Economic Model & Burning Mechanics
-The "Inferno" deflationary model is designed to create a supply-side shock:
-* **Automated 0.1% Burn:** Every network transaction triggers a hardcoded 0.1% fee that is permanently destroyed.
-* **Manual Inferno Rituals:** Strategic burns conducted exclusively from the Team and CEX Reserve pools to reward early backers without diluting community holdings.
-* **Price Impact:** Based on the formula $Price = Market Cap / Circulating Supply$, the continuous reduction of the denominator exerts natural upward pressure on token value.
+
+The deflationary model is designed to create supply-side pressure:
+
+#### 4.1 Automated 0.1% Burn
+Every transaction triggers a hardcoded 0.1% fee that is permanently destroyed. This creates a deflationary cycle:
+
+Higher trade volume → More tokens burned → Upward price pressure.
+
+#### 4.2 Permanent Liquidity Protection
+Liquidity is secured at launch:
+
+- SOL and HELL reserves are permanently paired
+- No one — not even the team — can withdraw liquidity
+- Price discovery: `HELL Price = SOL Reserves / HELL Reserves`
+
+#### 4.3 Price Impact Formula
+
+Based on: **Price = Market Cap / Circulating Supply**
+
+Continuous reduction of the denominator creates natural upward pressure on token value.
+
+| Factor | Effect |
+|--------|--------|
+| 🔥 Deflationary Pressure | Supply shrinks over time |
+| 🔒 Burnt Liquidity | Deep, stable market |
+| 📈 Investor Confidence | Trust increases organically |
+| ⏱️ Time & Volume | Price appreciation accelerates |
+
+**The Flywheel:** More trading → More burns → Less supply → Higher price potential → More trading
+
+---
 
 ### 5. Security & Transparency
-* **Mint Authority:** Revoked (Renounced). No additional tokens can ever be created.
-* **Freeze Authority:** Revoked. Ensuring a permissionless and decentralized environment.
-* **Fixed Commission:** The 0.1% burn tax is **fixed** and immutable. This ensures predictable economic conditions and excludes developer manipulation.
-* **Liquidity Security:** 100% of initial LP tokens are burned at launch to prevent "rug pull" scenarios.
+
+| Feature | Status | Implication |
+|---------|--------|-------------|
+| **Mint Authority** | ❌ Revoked | No additional tokens can ever be created |
+| **Freeze Authority** | ❌ Revoked | Permissionless, no blacklists |
+| **Transaction Tax** | 🔒 Fixed (0.1%) | Immutable, no developer manipulation |
+| **LP Tokens** | 🔥 Burnt (100%) | Rug-pull impossible |
+| **Metadata** | 🔒 Locked | Name, ticker, symbol permanent |
+
+**Hardcore Security Summary:**
+1. Immutable fee — authority disabled
+2. Revoked mint/freeze functions
+3. Burnt liquidity — LP tokens destroyed forever
+
+---
+
+### 6. Roadmap Overview
+
+For detailed roadmap, see [ATHellCoin Roadmap .pdf](ATHellCoin%20Roadmap%20.pdf)
+
+**High-level phases:**
+1. Contract deployment + website launch
+2. DEX listing + CMC/CG tracking
+3. CEX listings + targeted marketing
+4. Global partnerships + ATH campaigns
+5. Burn to Earn, NFTs + DAO transition
+
+---
+
+### 7. Official Links
+
+- **Website:** `https://athellcoin.xyz`
+- **Telegram:** `t.me/ATHellCoin`
+- **X (Twitter):** `@ATHellCoin`
+- **Email:** `hello@athellcoin.xyz`
 
 ---
 
 ## 🇷🇺 Русская версия
 
 ### 1. Введение
-ATHELLCOIN (HELL) — это дефляционный социальный эксперимент в сети Solana (стандарт Token-2022). Проект сочетает автоматические механики сжигания со стратегическими «Ритуалами Инферно», создавая среду с высокой дефицитностью актива и стимулируя долгосрочных держателей через математическую дефляцию.
+ATHELLCOIN (HELL) — дефляционный мем-коин в сети Solana (стандарт Token-2022). Проект сочетает автоматическое сжигание с постоянным уничтожением ликвидности, создавая среду с высоким дефицитом актива.
+
+---
 
 ### 2. Идеи и цели
-**Идеология проекта**
-ATHELLCOIN (HELL) пересматривает концепцию мемкоинов, доказывая, что они могут быть не только инструментом развлечения, но и эффективным активом для долгосрочных инвестиций. Наша основная цель — показать сообществу на практике, как законы спроса и предложения влияют на рыночную стоимость.
 
-**Инвестиционный потенциал через дефляцию**
-Благодаря постоянному сжиганию токенов, доля ранних держателей в общем объеме предложения растет пропорционально уменьшению эмиссии. Это позволяет инвесторам увеличивать свое влияние в проекте, минимизируя риски обесценивания актива за счет математически обоснованного дефицита.
+**Идеология проекта**
+HELL переосмысляет концепцию мемкоинов, доказывая, что они могут быть активом для долгосрочного хранения.
+
+**Инвестиционный потенциал**
+Благодаря постоянному сжиганию 0.1% с каждой транзакции, доля держателей в общем предложении растет пропорционально уменьшению эмиссии.
 
 **Путь к масштабированию**
-Мы стремимся к планомерному развитию с выходом на централизованные биржи (CEX), чтобы расширить доступ к экосистеме. Мы строим проект, где команда движима идеей создания честного и прозрачного механизма, доказывая, что в криптопространстве существуют инициативы, приоритетом которых является развитие концепции, а не сиюминутная прибыль.
+Планомерное развитие с листингом на централизованных биржах (CEX).
+
+---
 
 ### 3. Токеномика
-* **Тикер:** HELL
-* **Общая эмиссия:** 1,000,000,000 (1 Миллиард)
-* **Сеть:** Solana (Token-2022)
 
-| Распределение | Процент | Назначение | Условия и блокировка |
-| :--- | :--- | :--- | :--- |
-| **Предпродажа** | 40% | Ранние инвестиции | **Цена на 30% ниже цены листинга** |
-| **DEX Ликвидность** | 35% | Пулы Raydium/Meteora| **100% LP-токенов сожжены** |
-| **Резерв для CEX** | 15% | Листинги на биржах | **Заблокировано на 1 год** |
-| **Команда и разработка**| 10% | Разработка и развитие | **Заблокировано на 1 год** |
+| Параметр | Значение |
+|----------|----------|
+| **Тикер** | HELL |
+| **Общая эмиссия** | 1,000,000,000 (1 Миллиард) |
+| **Сеть** | Solana (Token-2022) |
+| **Налог** | 0.1% (фиксирован, сжигается) |
+
+#### Распределение токенов
+
+| Распределение | Процент | Детали |
+|:---|:---:|:---|
+| **Ликвидность DEX** | 29.06% | Пулы Raydium/Meteora |
+| **Pinksale Presale** | 34.07% | Публичный пресейл |
+| **Приватный раунд** | 11.02% | Раннее стратегическое финансирование ($5,000) |
+| **Команда и CEX (Locked)** | 25.85% | Вестинг команды + резерв для CEX |
+
+**Всего: 100%**
+
+#### Раунды финансирования
+
+| Раунд | Курс (HELL за 1 SOL) | Аллокация | Дисконт к листингу |
+|:---|:---:|:---:|:---:|
+| **Приватный раунд** | 1,870,112 | 110,000,000 HELL (11.02%) | ~55% |
+| **Pinksale Presale** | 963,336 | 340,000,000 HELL (34.07%) | 15% |
+| **DEX Листинг** | 833,477 | 290,000,000 HELL (29.06%) | 0% |
+
+**Цена токена в приватном раунде:** 0.000000535 SOL
+
+---
 
 ### 4. Экономическая модель и механика сжигания
-Дефляционная модель «Инферно» разработана для создания шока предложения:
-* **Автоматическое сжигание 0.1%:** Каждая транзакция активирует встроенный налог в размере 0.1%, который навсегда выводится из обращения.
-* **Ручные «Ритуалы Инферно»:** Стратегические сжигания, проводимые исключительно из пулов Команды и CEX-резерва, для поощрения ранних сторонников без размытия долей сообщества.
-* **Влияние на цену:** Согласно формуле $Цена = Капитализация / Предложение$, постоянное уменьшение знаменателя создает естественный импульс для роста стоимости актива.
 
-### 5. Безопасность и прозрачность
-* **Mint Authority:** Права на печать отозваны. Создание новых токенов невозможно.
-* **Freeze Authority:** Права на заморозку отозваны. Полная децентрализация и отсутствие черных списков.
-* **Фиксированная комиссия:** Механизм налогообложения (0.1% на сжигание) является **фиксированным** и не подлежит изменению. Это гарантирует предсказуемость экономических условий и исключает манипуляции со стороны разработчиков.
-* **Безопасность ликвидности:** 100% LP-токенов сжигаются при запуске, что исключает возможность изъятия ликвидности (Anti-Rug).
+#### 4.1 Автоматическое сжигание 0.1%
+Каждая транзакция активирует налог 0.1%, который навсегда уничтожается.
 
+#### 4.2 Постоянная защита ликвидности
+100% LP-токенов сжигаются при запуске, исключая возможность изъятия ликвидности.
 
+#### 4.3 Влияние на цену
+Согласно формуле **Цена = Капитализация / Предложение**, постоянное уменьшение предложения создает естественный импульс для роста цены.
+
+| Фактор | Эффект |
+|--------|--------|
+| 🔥 Дефляционное давление | Предложение уменьшается |
+| 🔒 Сожженная ликвидность | Глубокий стабильный рынок |
+| 📈 Доверие инвесторов | Растет органически |
+| ⏱️ Время и объем | Ускорение роста цены |
+
+---
+
+### 5. Безопасность
+
+| Функция | Статус | Значение |
+|---------|--------|----------|
+| **Mint Authority** | Отозвана | Новые токены невозможны |
+| **Freeze Authority** | Отозвана | Нет черных списков |
+| **Налог** | Фиксирован (0.1%) | Без манипуляций |
+| **LP-токены** | Сожжены (100%) | Rug-pull невозможен |
+
+---
+
+### 6. Официальные ссылки
+
+- **Сайт:** `https://athellcoin.xyz`
+- **Telegram:** `t.me/ATHellCoin`
+- **X (Twitter):** `@ATHellCoin`
+- **Email:** `hello@athellcoin.xyz`
+
+---
+
+*Disclaimer: This is a meme coin. Always do your own research (HELL) before investing.*
