@@ -3,8 +3,10 @@
 ![Supply Status](https://img.shields.io/badge/Supply-Locked_&_Deflationary-red)
 ![Tax](https://img.shields.io/badge/Tax-0.1%25_Burn-orange)
 ![Security](https://img.shields.io/badge/Security-Hardcore_Safe-brightgreen)
-![Solana](https://img.shields.io/badge/Blockchain-Solana-14F195?logo=solana)](https://solana.com)
-![Token](https://img.shields.io/badge/Standard-Token--2022-blue)](https://spl.solana.com/token-2022)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Solana](https://img.shields.io/badge/Blockchain-Solana-14F195?logo=solana)](https://solana.com)
+[![Token](https://img.shields.io/badge/Standard-Token--2022-blue)](https://spl.solana.com/token-2022)
+
 
 **Born in Fire.** HELL is a deflationary meme coin on Solana (Token-2022) with a hardcoded 0.1% burn fee on every transaction. Pure math. Pure fire.
 
