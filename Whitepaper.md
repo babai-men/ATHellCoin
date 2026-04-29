@@ -109,22 +109,10 @@ Continuous reduction of the denominator creates natural upward pressure on token
 2. Revoked mint/freeze functions
 3. Burnt liquidity — LP tokens destroyed forever
 
----
-
-### 6. Roadmap Overview
-
-For detailed roadmap, see [ATHellCoin Roadmap .pdf](ATHellCoin%20Roadmap%20.pdf)
-
-**High-level phases:**
-1. Contract deployment + website launch
-2. DEX listing + CMC/CG tracking
-3. CEX listings + targeted marketing
-4. Global partnerships + ATH campaigns
-5. Burn to Earn, NFTs + DAO transition
 
 ---
 
-### 7. Official Links
+### 6. Official Links
 
 - **Website:** `https://athellcoin.xyz`
 - **Telegram:** `t.me/ATHellCoin`
