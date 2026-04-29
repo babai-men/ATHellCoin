@@ -105,10 +105,10 @@ Continuous reduction of the denominator creates natural upward pressure on token
 
 ### 6. Official Links
 
-- **Website:** `https://athellcoin.xyz`
+- **Website:** `https://github.com/babai-men/ATHellCoin`
 - **Telegram:** `t.me/ATHellCoin`
 - **X (Twitter):** `@ATHellCoin`
-- **Email:** `hello@athellcoin.xyz`
+- **Email:** `athellcoin@gmail.com`
 
 ---
 
@@ -197,10 +197,10 @@ HELL переосмысляет концепцию мемкоинов, дока�
 
 ### 6. Официальные ссылки
 
-- **Сайт:** `https://athellcoin.xyz`
+- **Сайт:** `https://github.com/babai-men/ATHellCoin`
 - **Telegram:** `t.me/ATHellCoin`
 - **X (Twitter):** `@ATHellCoin`
-- **Email:** `hello@athellcoin.xyz`
+- **Email:** `athellcoin@gmail.com`
 
 ---
 
