@@ -112,7 +112,7 @@ Continuous reduction of the denominator creates natural upward pressure on token
 - **Telegram:** `t.me/ATHellCoin`
 - **X (Twitter):** `@ATHellCoin`
 - **Email:** `athellcoin@gmail.com`
-
+*Disclaimer: This is a meme coin. Always do your own research (DYOR) before investing.*
 ---
 
 ## 🇷🇺 Русская версия
@@ -210,4 +210,4 @@ HELL переосмысляет концепцию мемкоинов, дока�
 
 ---
 
-*Disclaimer: This is a meme coin. Always do your own research (HELL) before investing.*
+*Отказ от ответственности: Это мем-монета. Всегда проводите собственное исследование (DYOR) перед инвестированием.*
