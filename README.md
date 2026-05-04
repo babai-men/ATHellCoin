@@ -59,7 +59,7 @@
 - **Network:** Solana (Token-2022)
 - **Slippage:** 0.2% - 0.5% (to cover 0.1% tax)
 - **Contract:** `[9Ey4aSdshNo4Auxe878MdDTWK8EyGPYKP3b764tMhBKc]`
-
+*Disclaimer: This is a meme coin. Always do your own research (HELL) before investing.*
 ---
 
 ## 🇷🇺 Русская Версия
@@ -114,4 +114,4 @@
 
 ---
 
-*Disclaimer: This is a meme coin. Always do your own research (HELL) before investing.*
+*Отказ от ответственности: Это мем-монета. Всегда проводите собственное исследование (DYOR) перед инвестированием.*
