@@ -106,11 +106,19 @@
 
 
 ## 🔗 Official Links / Официальные ссылки
+* **X (Twitter):** [@ATHellCoin](https://x.com/ATHellCoin) — *Главные новости и анонсы сжиганий. / Main news and burn announcements.*
+* **Telegram:** [@ATHellCoin](https://t.me/ATHellCoin) — *Чат сообщества и оперативная поддержка. / Community chat and prompt support.*
 
+### 🛠️ Разработка / Development
 
-- **Telegram:** `t.me/ATHellCoin`
-- **X (Twitter):** `@ATHellCoin`
-- **Email:** `athellcoin@gmail.com`
+* **GitHub:** [ATHellCoin Official](https://github.com/babai-men/ATHellCoin) — *Исходный код контракта Token-2022 и техническая документация. / Token-2022 contract source code and technical documentation.*
+
+### 📧 Поддержка и сотрудничество / Support & Business
+
+* **Email:** [athellcoin@gmail.com](mailto:athellcoin@gmail.com) — *По вопросам партнерства и листингов. / For partnership and listing inquiries.*
+
+---
+
 
 ---
 
