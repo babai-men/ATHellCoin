@@ -49,7 +49,7 @@ We strive for systematic development with a focus on Centralized Exchange (CEX) 
 | **DEX Listing** | 833,477 | 290,000,000 HELL (29.06% in pool) | 0% |
 
 **Private Round Token Price:** 0.000000535 SOL
-![funding](https://raw.githubusercontent.com/babai-men/ATHellCoin/images/funding.ru.png)
+![funding](https://raw.githubusercontent.com/babai-men/ATHellCoin/images/funding.png)
 **Proof of Locks:**
 *   [150M HELL Lock (Streamflow)](https://app.streamflow.finance/contract/solana/mainnet/DD3UthiHmDa5WQee6YyYySsfPe34UFipjzacBB9rnXNE)
 *   [100M HELL Vested (Streamflow)](https://app.streamflow.finance/contract/solana/mainnet/AiDMzqAoa5MziyKZv3ws7RFwgDwXzvMVZDDBnUHSptcz)
