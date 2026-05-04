@@ -59,6 +59,18 @@
 - **Network:** Solana (Token-2022)
 - **Slippage:** 0.2% - 0.5% (to cover 0.1% tax)
 - **Contract:** `[9Ey4aSdshNo4Auxe878MdDTWK8EyGPYKP3b764tMhBKc]`
+
+---
+## 🔗 Official Links 
+* **X (Twitter):** [@ATHellCoin](https://x.com/ATHellCoin) — * Main news and burn announcements.*
+* **Telegram:** [@ATHellCoin](https://t.me/ATHellCoin) — * Community chat and prompt support.*
+
+
+### Support & Business
+
+* **Email:** [athellcoin@gmail.com](mailto:athellcoin@gmail.com) — For partnership and listing inquiries.*
+
+
 *Disclaimer: This is a meme coin. Always do your own research (HELL) before investing.*
 ---
 
@@ -105,17 +117,13 @@
 
 
 
-## 🔗 Official Links / Официальные ссылки
-* **X (Twitter):** [@ATHellCoin](https://x.com/ATHellCoin) — *Главные новости и анонсы сжиганий. / Main news and burn announcements.*
-* **Telegram:** [@ATHellCoin](https://t.me/ATHellCoin) — *Чат сообщества и оперативная поддержка. / Community chat and prompt support.*
+## 🔗 Официальные ссылки
+* **X (Twitter):** [@ATHellCoin](https://x.com/ATHellCoin) — *Главные новости и анонсы сжиганий. *
+* **Telegram:** [@ATHellCoin](https://t.me/ATHellCoin) — *Чат сообщества и оперативная поддержка. *
 
-### 🛠️ Разработка / Development
+### 📧 Поддержка и сотрудничество 
 
-* **GitHub:** [ATHellCoin Official](https://github.com/babai-men/ATHellCoin) — *Исходный код контракта Token-2022 и техническая документация. / Token-2022 contract source code and technical documentation.*
-
-### 📧 Поддержка и сотрудничество / Support & Business
-
-* **Email:** [athellcoin@gmail.com](mailto:athellcoin@gmail.com) — *По вопросам партнерства и листингов. / For partnership and listing inquiries.*
+* **Email:** [athellcoin@gmail.com](mailto:athellcoin@gmail.com) — *По вопросам партнерства и листингов. *
 
 ---
 
