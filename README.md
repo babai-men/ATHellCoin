@@ -15,7 +15,7 @@
 
 - [English Version](#-english-version)
 - [Русская Версия](#-русская-версия)
-- [FAQ / Ответы на вопросы](#-faq--ответы-на-вопросы)
+- [FAQ / Ответы на вопросы](https://github.com/babai-men/ATHellCoin/blob/main/FAQ.md)
 
 ---
 
