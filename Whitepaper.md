@@ -50,6 +50,8 @@ We strive for systematic development with a focus on Centralized Exchange (CEX) 
 
 **Private Round Token Price:** 0.000000535 SOL
 ![funding](https://raw.githubusercontent.com/babai-men/ATHellCoin/images/funding.ru.png)
+![150M LOCK](https://app.streamflow.finance/contract/solana/mainnet/DD3UthiHmDa5WQee6YyYySsfPe34UFipjzacBB9rnXNE)
+![100M VESTED](https://app.streamflow.finance/contract/solana/mainnet/AiDMzqAoa5MziyKZv3ws7RFwgDwXzvMVZDDBnUHSptcz)
 ----
 
 ### 4. Economic Model & Burning Mechanics
