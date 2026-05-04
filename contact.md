@@ -5,7 +5,6 @@
 ### 📊 Техническая информация / Technical Info
 
 * **Mint Address (Адрес токена):** `9Ey4aSdshNo4Auxe878MdDTWK8EyGPYKP3b764tMhBKc`
-* **Token Account:** `FLjSKHXCYdNe9E7c7zYhiUnnFtC87t1HsrU8oax8YWGb`
 * **Tax Burn Wallet (Сбор и сжигание налога):** `EtgcvLSJhsVrFP8Lg5tQaQYogPMERrxgg4YdgBn7juCW`
 * **Current Token Holder Wallet (Хранилище токенов):** `79G66J5Ydsrc8UgL2ouBf3B62tXhGmo1JMGgNtQDMewX`
 
@@ -15,8 +14,11 @@
 * **Telegram:** [@ATHellCoin](https://t.me/ATHellCoin) — *Чат сообщества и оперативная поддержка. / Community chat and prompt support.*
 
 ### 🛠️ Разработка / Development
-
-* **GitHub:** [ATHellCoin Official](https://github.com/babai-men/ATHellCoin) — *Исходный код контракта Token-2022 и техническая документация. / Token-2022 contract source code and technical documentation.*
+**Proof of Locks:**
+*   [150M HELL Lock (Streamflow)](https://app.streamflow.finance/contract/solana/mainnet/DD3UthiHmDa5WQee6YyYySsfPe34UFipjzacBB9rnXNE)
+*   [100M HELL Vested (Streamflow)](https://app.streamflow.finance/contract/solana/mainnet/AiDMzqAoa5MziyKZv3ws7RFwgDwXzvMVZDDBnUHSptcz)
+----
+* **SOLANA:** [SOLANA token 2022](https://solana.com/ru/docs/intro/installation) — *Исходный код контракта Token-2022 и техническая документация. / Token-2022 contract source code and technical documentation.*
 
 ### 📧 Поддержка и сотрудничество / Support & Business
 
