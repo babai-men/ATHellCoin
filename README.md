@@ -50,7 +50,7 @@
 #### 🔒 Lock Details
 
 - **CEX Reserve (150M):** Locked via smart contract (e.g., Streamflow) for 365 days. Team cannot touch.
-- **Strategic Reserve (100M):** 180 days full lock → 18 months linear vesting (unlock ≈5.55M per month).
+- **Strategic Team Reserve (100M):** 180 days full lock → 18 months linear vesting (unlock ≈5.55M per month).
 - **Liquidity Pool (740M):** Deposited into **Meteora DAMM v2 (DLMM)** as single-sided LP. No team control over pool tokens.
 - **Operational Reserve (3.5M):** Multisig wallet (Squads Protocol). Publicly visible.
 
@@ -123,7 +123,7 @@
 #### 🔒 Детали блокировок
 
 - **CEX резерв (150M):** Заблокирован через смарт-контракт (Streamflow) на 365 дней. Команда не имеет доступа.
-- **Стратегический резерв (100M):** 180 дней полной блокировки → 18 месяцев линейного вестинга (разблокировка ≈5.55M в месяц).
+- **Стратегический резерв команды (100M):** 180 дней полной блокировки → 18 месяцев линейного вестинга (разблокировка ≈5.55M в месяц).
 - **Пул ликвидности (740M):** Размещён в **Meteora DAMM v2 (DLMM)** как односторонний LP. Нет контроля команды над токенами пула.
 - **Операционный резерв (3.5M):** Мультиподпись (Squads Protocol). Публично доступен.
 
