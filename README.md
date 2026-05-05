@@ -25,23 +25,41 @@
 
 **Born in Fire.** HELL is a deflationary meme coin on Solana (Token-2022). We've implemented a precision **0.1% fee** on every transaction. To ensure 100% transparency, we use audited smart contracts for permanent burning.
 
-- **Total Supply:** 1,000,000,000 (1 Billion) HELL
-- **Network:** Solana (Token-2022 Extensions)
-- **Tax:** 0.1% fixed, immutable, permanently burned
-
-### 🔥 Burn Mechanics
-
-- **Genesis Burn:** During initial distribution, 1,000,000 HELL were already burnt.
-- **Auto-Burn:** Every trade triggers a 0.1% fee. These tokens are harvested and destroyed via the Incinerator, reducing Total Supply forever.
 
 ![Burn Mechanism](https://raw.githubusercontent.com/babai-men/ATHellCoin/images/burn.png)
 
-| Allocation | Percentage | Details |
-|:---|:---:|:---|
-| **Liquidity Pool** | 29.06% | DEX liquidity (Raydium/Meteora) |
-| **Pinksale Presale** | 34.07% | Public presale allocation |
-| **Private Round** | 11.02% | Early strategic funding ($5,000 goal) |
-| **Team & CEX (Locked)** | 25.85% | Team vesting + CEX listing reserve |
+### 🔥 Tokenomics (Hardcore Deflation)
+
+**Total Supply:** 1,000,000,000 (1 Billion) HELL
+**Network:** Solana (Token-2022)
+**Tax:** 0.1% fixed, immutable, permanently burned
+
+#### Token Distribution
+
+| Allocation | Amount (HELL) | Percentage | Vesting / Lockup |
+|:---|:---:|:---:|:---|
+| **DAMM v2 Liquidity Pool (Meteora)** | 740,000,000 | 74.0% | **100% unlocked** in DLMM pool |
+| **CEX Listing Reserve** | 150,000,000 | 15.0% | **Locked 1 year**, then 100% unlocked |
+| **Strategic / Team Reserve** | 100,000,000 | 10.0% | **Locked 24 months**: full lock 6 months → 18 months linear monthly unlock |
+| **Operational Reserve** | 3,500,000 | 0.35% | Emergency / Marketing / Listings |
+| **Genesis Burn** | ✅ **6,500,000** | 0.65% | **Burned before launch** (deflation) |
+| **TOTAL** | **1,000,000,000** | **100%** | — |
+
+> ⚠️ **Important:** The remaining `6,500,000 HELL` (0.65% of total supply) will be **permanently burned** at TGE. No mint function exists — supply is **final and decreasing** over time via 0.1% transaction burn.
+
+#### 🔒 Lock Details
+
+- **CEX Reserve (150M):** Locked via smart contract (e.g., Streamflow) for 365 days. Team cannot touch.
+- **Strategic Reserve (100M):** 180 days full lock → 18 months linear vesting (unlock ≈5.55M per month).
+- **Liquidity Pool (740M):** Deposited into **Meteora DAMM v2 (DLMM)** as single-sided LP. No team control over pool tokens.
+- **Operational Reserve (3.5M):** Multisig wallet (Squads Protocol). Publicly visible.
+
+#### 📉 Why This Works for Investors
+
+- **No stealth dump:** 25% of supply (CEX + Team) is time-locked.
+- **Real liquidity:** 74% in DAMM v2 means deep pool, low slippage.
+- **Burn proof:** Genesis burn + 0.1% auto-burn = forever decreasing supply.
+
 
 
 ![Token Locks](https://raw.githubusercontent.com/babai-men/ATHellCoin/images/lock.png)
@@ -80,24 +98,41 @@
 
 **Born in Fire.** HELL — дефляционный мем-коин в сети Solana (Token-2022). Мы выбрали комиссию **0.1%** , чтобы обеспечить постоянное сжигание, не мешая трейдерам. Никаких скрытых функций — только чистая математика и огонь.
 
-- **Общая эмиссия:** 1,000,000,000 (1 Миллиард) HELL
-- **Сеть:** Solana (Token-2022 расширения)
-- **Комиссия:** 0.1% фиксирована, неизменна, сжигается навсегда
-
-### 🔥 Механика сжигания
-
-- **Genesis Burn:** При распределении токеномики уже сгорело 1,000,000 HELL.
-- **Постоянный Burn:** Комиссия 0.1% с каждой транзакции изымается из обращения и сжигается, уменьшая общую эмиссию.
-
 ![Механизм Сжигания](https://raw.githubusercontent.com/babai-men/ATHellCoin/images/burn.ru.png)
 
 
-| Распределение | Процент | Детали |
-|:---|:---:|:---|
-| **Ликвидность DEX** | 29.06% | Пулы Raydium/Meteora |
-| **Pinksale Presale** | 34.07% | Публичный пресейл |
-| **Приватный раунд** | 11.02% | Раннее стратегическое финансирование ($5,000) |
-| **Команда и CEX (Locked)** | 25.85% | Вестинг команды + резерв для CEX |
+### 🔥 Токеномика (Жёсткая дефляция)
+
+**Общая эмиссия:** 1,000,000,000 (1 Миллиард) HELL
+**Сеть:** Solana (Token-2022)
+**Комиссия:** 0.1% фиксирована, неизменна, сжигается навсегда
+
+#### Распределение токенов
+
+| Назначение | Количество (HELL) | Процент | Вестинг / Блокировка |
+|:---|:---:|:---:|:---|
+| **DAMM v2 пул ликвидности (Meteora)** | 740,000,000 | 74.0% | **100% разблокирована** в DLMM пуле |
+| **Резерв для CEX листинга** | 150,000,000 | 15.0% | **Блокировка 1 год**, затем полная разблокировка |
+| **Стратегический / Команда** | 100,000,000 | 10.0% | **Блокировка 24 мес**: 6 мес полная блокировка → 18 мес линейно ежемесячно |
+| **Операционный резерв** | 3,500,000 | 0.35% | Экстренные / Маркетинг / Листинги |
+| **Genesis Burn** | ✅ **6,500,000** | 0.65% | **Сожжены до запуска** (дефляция) |
+| **ВСЕГО** | **1,000,000,000** | **100%** | — |
+
+> ⚠️ **Важно:** Оставшиеся `6,500,000 HELL` (0.65% от общей эмиссии) будут **навсегда сожжены** при TGE. Функция Mint отсутствует — предложение финальное и постоянно уменьшается за счёт 0.1% комиссии.
+
+#### 🔒 Детали блокировок
+
+- **CEX резерв (150M):** Заблокирован через смарт-контракт (Streamflow) на 365 дней. Команда не имеет доступа.
+- **Стратегический резерв (100M):** 180 дней полной блокировки → 18 месяцев линейного вестинга (разблокировка ≈5.55M в месяц).
+- **Пул ликвидности (740M):** Размещён в **Meteora DAMM v2 (DLMM)** как односторонний LP. Нет контроля команды над токенами пула.
+- **Операционный резерв (3.5M):** Мультиподпись (Squads Protocol). Публично доступен.
+
+#### 📉 Почему это выгодно инвесторам
+
+- **Нет скрытого дампа:** 25% эмиссии (CEX + команда) залочены по времени.
+- **Реальная ликвидность:** 74% в DAMM v2 = глубокая ликвидность, низкое проскальзывание.
+- **Доказательство сжигания:** Genesis burn + 0.1% автосжигание = предложение вечно уменьшается.
+
 
 ![Блокировки Токенов](https://raw.githubusercontent.com/babai-men/ATHellCoin/images/lock.ru.png)
 
