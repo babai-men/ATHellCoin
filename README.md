@@ -89,7 +89,7 @@
 * **Email:** [athellcoin@gmail.com](mailto:athellcoin@gmail.com) — For partnership and listing inquiries.*
 
 
-*Disclaimer: This is a meme coin. Always do your own research (HELL) before investing.*
+*Disclaimer: This is a meme coin. Always do your own research (DYOR) before investing.*
 ---
 
 ## 🇷🇺 Русская Версия
