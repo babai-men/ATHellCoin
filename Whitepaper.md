@@ -31,28 +31,39 @@ We strive for systematic development with a focus on Centralized Exchange (CEX) 
 
 #### Token Allocation
 
-| Allocation | Percentage | Details |
-|:---|:---:|:---|
-| **Liquidity Pool** | 29.06% | DEX liquidity (Raydium/Meteora) |
-| **Pinksale Presale** | 34.07% | Public presale allocation |
-| **Private Round** | 11.02% | Early strategic funding ($5,000 goal) |
-| **Team & CEX (Locked)** | 25.85% | Team vesting + CEX listing reserve |
+| Allocation | Amount (HELL) | Percentage | Vesting / Lockup |
+|:---|:---:|:---:|:---|
+| **DAMM v2 Liquidity Pool (Meteora)** | 740,000,000 | 74.0% | 100% unlocked in DLMM pool |
+| **CEX Listing Reserve** | 150,000,000 | 15.0% | Locked 1 year, then 100% unlocked |
+| **Strategic / Team Reserve** | 100,000,000 | 10.0% | Locked 24 months: 6 months full lock → 18 months linear monthly |
+| **Operational Reserve** | 3,500,000 | 0.35% | Multisig (marketing / emergency / listings) |
+| **Genesis Burn** | 6,500,000 | 0.65% | Permanently burned before launch |
 
-**Total: 100%**
+**Total** | **1,000,000,000** | **100%** | —
 
-#### Funding Rounds
+#### Launch Model
 
-| Round | Rate (HELL per 1 SOL) | Allocation | Discount vs Listing |
-|:---|:---:|:---:|:---:|
-| **Private Round** | 1,870,112 | 110,000,000 HELL (11.02%) | ~55% |
-| **Pinksale Presale** | 963,336 | 340,000,000 HELL (34.07%) | 15% |
-| **DEX Listing** | 833,477 | 290,000,000 HELL (29.06% in pool) | 0% |
+**No Presale. No Private Round.**
 
-**Private Round Token Price:** 0.000000535 SOL
-![funding](https://raw.githubusercontent.com/babai-men/ATHellCoin/images/funding.png)
-**Proof of Locks:**
-*   [150M HELL Lock (Streamflow)](https://app.streamflow.finance/contract/solana/mainnet/DD3UthiHmDa5WQee6YyYySsfPe34UFipjzacBB9rnXNE)
-*   [100M HELL Vested (Streamflow)](https://app.streamflow.finance/contract/solana/mainnet/AiDMzqAoa5MziyKZv3ws7RFwgDwXzvMVZDDBnUHSptcz)
+HELL launches directly on **Meteora DAMM v2 (DLMM)** with 740M HELL (74% of supply) as single-sided liquidity. This ensures:
+
+- Fair price discovery
+- No early investor discounts
+- No presale dump pressure
+- Deep liquidity from day one
+
+#### Lock Details
+
+| Reserve | Amount | Lock Mechanism | Unlock Schedule |
+|:---|:---:|:---|:---|
+| **CEX Reserve** | 150M HELL | Streamflow smart contract | 365 days full lock → 100% unlocked |
+| **Strategic Reserve** | 100M HELL | Streamflow smart contract | 180 days full lock → 18 months linear vesting (~5.55M/month) |
+| **Operational Reserve** | 3.5M HELL | Squads Protocol Multisig | Team-controlled, publicly visible |
+
+#### 🔗 Proof of Locks
+
+- [150M HELL Lock (Streamflow)](https://app.streamflow.finance/contract/solana/mainnet/DD3UthiHmDa5WQee6YyYySsfPe34UFipjzacBB9rnXNE)
+- [100M HELL Vested (Streamflow)](https://app.streamflow.finance/contract/solana/mainnet/AiDMzqAoa5MziyKZv3ws7RFwgDwXzvMVZDDBnUHSptcz)
 ----
 
 ### 4. Economic Model & Burning Mechanics
@@ -146,30 +157,39 @@ HELL переосмысляет концепцию мемкоинов, дока�
 
 #### Распределение токенов
 
-| Распределение | Процент | Детали |
-|:---|:---:|:---|
-| **Ликвидность DEX** | 29.06% | Пулы Raydium/Meteora |
-| **Pinksale Presale** | 34.07% | Публичный пресейл |
-| **Приватный раунд** | 11.02% | Раннее стратегическое финансирование ($5,000) |
-| **Команда и CEX (Locked)** | 25.85% | Вестинг команды + резерв для CEX |
+| Назначение | Количество (HELL) | Процент | Вестинг / Блокировка |
+|:---|:---:|:---:|:---|
+| **DAMM v2 пул ликвидности (Meteora)** | 740,000,000 | 74.0% | 100% разблокирована в DLMM пуле |
+| **Резерв для CEX листинга** | 150,000,000 | 15.0% | Блокировка 1 год → полная разблокировка |
+| **Стратегический / Команда** | 100,000,000 | 10.0% | Блокировка 24 мес: 6 мес полная блокировка → 18 мес линейно |
+| **Операционный резерв** | 3,500,000 | 0.35% | Мультиподпись (маркетинг / экстренные) |
+| **Genesis Burn** | 6,500,000 | 0.65% | Сожжены до запуска |
 
-**Всего: 100%**
+**Всего** | **1,000,000,000** | **100%** | —
 
-#### Раунды финансирования
+#### Модель запуска
 
-| Раунд | Курс (HELL за 1 SOL) | Аллокация | Дисконт к листингу |
-|:---|:---:|:---:|:---:|
-| **Приватный раунд** | 1,870,112 | 110,000,000 HELL (11.02%) | ~55% |
-| **Pinksale Presale** | 963,336 | 340,000,000 HELL (34.07%) | 15% |
-| **DEX Листинг** | 833,477 | 290,000,000 HELL (29.06%) | 0% |
+**Никакого пресейла. Никакого приватного раунда.**
 
-**Цена токена в приватном раунде:** 0.000000535 SOL
-![funding](https://raw.githubusercontent.com/babai-men/ATHellCoin/images/funding.ru.png)
-**Доказательство блокировки :**
-*   [150M HELL Lock (Streamflow)](https://app.streamflow.finance/contract/solana/mainnet/DD3UthiHmDa5WQee6YyYySsfPe34UFipjzacBB9rnXNE)
-*   [100M HELL Vested (Streamflow)](https://app.streamflow.finance/contract/solana/mainnet/AiDMzqAoa5MziyKZv3ws7RFwgDwXzvMVZDDBnUHSptcz)
----
+HELL запускается напрямую на **Meteora DAMM v2 (DLMM)** с 740M HELL (74% эмиссии) как односторонняя ликвидность. Это обеспечивает:
 
+- Честное ценообразование
+- Отсутствие скидок для ранних инвесторов
+- Отсутствие дампа после пресейла
+- Глубокую ликвидность с первого дня
+
+#### Детали блокировок
+
+| Резерв | Количество | Механизм блокировки | График разблокировки |
+|:---|:---:|:---|:---|
+| **CEX резерв** | 150M HELL | Streamflow | 365 дней полной блокировки → 100% разблокировка |
+| **Стратегический резерв** | 100M HELL | Streamflow | 180 дней полной блокировки → 18 месяцев линейно (~5.55M/мес) |
+| **Операционный резерв** | 3.5M HELL | Squads Protocol | Под контролем команды, публично виден |
+
+#### 🔗 Доказательство блокировок
+
+- [150M HELL Lock (Streamflow)](https://app.streamflow.finance/contract/solana/mainnet/DD3UthiHmDa5WQee6YyYySsfPe34UFipjzacBB9rnXNE)
+- [100M HELL Vested (Streamflow)](https://app.streamflow.finance/contract/solana/mainnet/AiDMzqAoa5MziyKZv3ws7RFwgDwXzvMVZDDBnUHSptcz)
 ### 4. Экономическая модель и механика сжигания
 
 #### 4.1 Автоматическое сжигание 0.1%
